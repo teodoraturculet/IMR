@@ -1,8 +1,5 @@
 # IMR 
-  Echipa: 
+  Echipa:
 
-  
-    - Turculeț Teodora Ioana Grupa 3A4
-
-    
-    - Cojocaru Antonia Grupa 3B3
+* Cojocaru Antonia Grupa 3B3
+* Turculet Teodora Grupa 3A4
