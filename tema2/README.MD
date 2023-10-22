@@ -1,7 +1,7 @@
 # Tema 2 
 
-1. **Setup OpenXR + XRToolkit:** Am configurat cu succes mediul de dezvoltare pentru a utiliza OpenXR și XRToolkit 
+[X]  1. **Setup OpenXR + XRToolkit:** Am configurat cu succes mediul de dezvoltare pentru a utiliza OpenXR și XRToolkit 
 
-2. **Setup XR Device Simulator:** Am configurat un simulator de dispozitiv VR 
+  [X ]  2. **Setup XR Device Simulator:** Am configurat un simulator de dispozitiv VR 
 
-3. **Construiti o experienta de aruncare a unor obiecte asupra unor tinte . NU AM Reusit 
+ [ ]  3. **Construiti o experienta de aruncare a unor obiecte asupra unor tinte**   
