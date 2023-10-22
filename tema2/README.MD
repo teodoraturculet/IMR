@@ -4,6 +4,6 @@
 
 - [x] **Setup XR Device Simulator:** Am configurat un simulator de dispozitiv VR.
 
-- [ ] **Construiti o experienta de aruncare a unor obiecte asupra unor tinte:**Nu am reusit .
+- [ ] **Construiti o experienta de aruncare a unor obiecte asupra unor tinte:** Nu am reusit .
 
 
